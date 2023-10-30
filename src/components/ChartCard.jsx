@@ -83,7 +83,7 @@ export default function ChartCard() {
     };
 
     return (
-      <>
+      <>Asc/Dsc
       <Switch
         checked={checked}
         onChange={handleChange}
